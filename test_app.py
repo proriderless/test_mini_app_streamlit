@@ -58,7 +58,7 @@ st.set_page_config(
 
 st.title("💬 Stock Prediction app")
 
-all_tickers = ['SPY', 'EURUSD=X', 'EURGBP=X', 'BTC-USD', 'AAPL', 'ETH-USD']
+all_tickers = ['SPY', 'EURUSD=X', 'EURGBP=X', 'BTC-USD', 'AAPL', 'ETH-USD', 'TSLA', 'NVDA', 'QQQ', 'ADBE', 'SHOP', 'LMT', 'UNH']
 
 
 with st.form(key='insert_stock'):
